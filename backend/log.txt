@@ -1,0 +1,167 @@
+New user: Norman
+New user: Norman
+New user: Norman
+New user: sdf
+New user: sdf
+New user: Norman
+New user: sdf
+New user: sdf
+Using now control images
+Using now control images
+Using now control images
+Using now control images
+New user: Norman
+Using now control images
+Using now control images
+Using now control images
+Using now control images
+New user: sdf
+Using now control images
+Using now control images
+Using now control images
+Using now control images
+New user: sdfsdf
+Using now control images
+Using now control images
+Using now control images
+Using now control images
+New user: sdfsdf
+Using now control images
+Using now control images
+Using now control images
+Using now control images
+New user: asdasd
+New user: asdasd
+Using now control images
+Using now control images
+New user: sdf
+Using now control images
+Using now control images
+New user: sdf
+Using now control images
+Using now control images
+Using now control images
+Using now control images
+Using now control images
+Using now control images
+Using now control images
+Using now control images
+User sdf	Timing for img download (1).png}: 60150ms
+User sdf	Timing for img download (2).png}: 596ms
+User sdf	Timing for img download (3).png}: 8175ms
+New user: asdsad
+Using now control images
+Using now control images
+User asdsad	Timing for img download (1).png}: 268811ms
+User asdsad	Timing for img download (2).png}: 1388ms
+User asdsad	Timing for img download (3).png}: 822ms
+User asdsad	Timing for img download (4).png}: 1345ms
+User asdsad	Timing for img download (5).png}: 1080ms
+User asdsad	Timing for img download (6).png}: 729ms
+User asdsad	Timing for img download (7).png}: 519ms
+User asdsad	Timing for img download (8).png}: 615ms
+User asdsad	Timing for img download (9).png}: 579ms
+Using now test images
+Using now control images
+Using now control images
+New user: sdf
+Using now control images
+Using now control images
+User sdf	Timing for img undefined}: 1094ms
+User sdf	Timing for img undefined}: 1095ms
+New user: dsf
+Using now control images
+Using now control images
+User dsf	Timing for img undefined}: 1376ms
+User dsf	Timing for img undefined}: 1375ms
+New user: sdfsdf
+Using now control images
+Using now control images
+New user: sdfsdf
+Using now control images
+Using now control images
+User sdfsdf	Timing for img undefined}: 5539ms
+User sdfsdf	Timing for img undefined}: 5535ms
+User sdfsdf	Timing for img download (2).png}: 1257ms
+User sdfsdf	Timing for img download (3).png}: 338ms
+User sdfsdf	Timing for img download (4).png}: 352ms
+User sdfsdf	Timing for img download (5).png}: 313ms
+User sdfsdf	Timing for img download (6).png}: 335ms
+User sdfsdf	Timing for img download (7).png}: 289ms
+User sdfsdf	Timing for img download (8).png}: 291ms
+Using now test images
+User sdfsdf	Timing for img download (9).png}: 317ms
+Using now control images
+Using now control images
+New user: sdfsdf
+Using now control images
+Using now control images
+User sdfsdf	Timing for img undefined}: 6087ms
+User sdfsdf	Timing for img undefined}: 6091ms
+User sdfsdf	Timing for img download (2).png}: 828ms
+User sdfsdf	Timing for img download (3).png}: 1052ms
+User sdfsdf	Timing for img download (4).png}: 689ms
+User sdfsdf	Timing for img download (5).png}: 863ms
+User sdfsdf	Timing for img download (6).png}: 784ms
+User sdfsdf	Timing for img download (7).png}: 816ms
+User sdfsdf	Timing for img download (8).png}: 889ms
+User sdfsdf	Timing for img download (9).png}: 1013ms
+Using now test images
+Using now control images
+Using now control images
+Using now control images
+Using now control images
+New user: sdfsdf
+Using now control images
+Using now control images
+User sdfsdf	Timing for img undefined}: 5999ms
+User sdfsdf	Timing for img undefined}: 6000ms
+User sdfsdf	Timing for img download (2).png}: 997ms
+User sdfsdf	Timing for img download (3).png}: 303ms
+User sdfsdf	Timing for img download (4).png}: 185ms
+User sdfsdf	Timing for img download (5).png}: 176ms
+User sdfsdf	Timing for img download (6).png}: 175ms
+User sdfsdf	Timing for img download (7).png}: 135ms
+User sdfsdf	Timing for img download (8).png}: 490ms
+User sdfsdf	Timing for img download (9).png}: 472ms
+Using now test images
+Using now control images
+Using now control images
+User sdfsdf	Timing for img undefined}: 6073ms
+User sdfsdf	Timing for img undefined}: 6071ms
+User sdfsdf	Timing for img download (10).png}: 1524ms
+User sdfsdf	Timing for img download (2).png}: 153ms
+User sdfsdf	Timing for img download (3).png}: 153ms
+User sdfsdf	Timing for img download (4).png}: 157ms
+User sdfsdf	Timing for img download (5).png}: 162ms
+User sdfsdf	Timing for img download (6).png}: 184ms
+User sdfsdf	Timing for img download (7).png}: 248ms
+Resetting tray
+User sdfsdf	Timing for img download (8).png}: 289ms
+New user: adssad
+Using now control images
+Using now control images
+User adssad	Timing for img undefined}: 8776ms
+User adssad	Timing for img undefined}: 8773ms
+User adssad	Timing for img download (2).png}: 1224ms
+User adssad	Timing for img download (3).png}: 155ms
+User adssad	Timing for img download (4).png}: 150ms
+User adssad	Timing for img download (5).png}: 169ms
+User adssad	Timing for img download (6).png}: 174ms
+User adssad	Timing for img download (7).png}: 185ms
+User adssad	Timing for img download (8).png}: 202ms
+User adssad	Timing for img download (9).png}: 207ms
+Using now test images
+Using now control images
+Using now control images
+User adssad	Timing for img undefined}: 5237ms
+User adssad	Timing for img undefined}: 5236ms
+User adssad	Timing for img download (10).png}: 1344ms
+User adssad	Timing for img download (2).png}: 168ms
+User adssad	Timing for img download (3).png}: 159ms
+User adssad	Timing for img download (4).png}: 169ms
+User adssad	Timing for img download (5).png}: 160ms
+User adssad	Timing for img download (6).png}: 168ms
+User adssad	Timing for img download (7).png}: 193ms
+User adssad	Timing for img download (8).png}: 311ms
+Resetting tray

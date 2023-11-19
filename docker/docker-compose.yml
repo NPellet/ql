@@ -1,0 +1,26 @@
+version: '3'
+services:
+  frontend:
+    image: frontend
+    build:
+      context: ../
+      dockerfile: docker/frontend/Dockerfile
+    ports:
+      - 3000:3000
+    volumes:
+      - ../images:/app/build/images  # mounts t
+  backend:
+    image: backend
+    build:
+      context: ../
+      dockerfile: docker/backend/Dockerfile
+    volumes:
+      - ../images:/images  # mounts t
+      - ../logs:/logs  # mounts t
+    ports:
+      - 8080:8080
+    environment:
+      - LOG_FILE=/logs/log.txt
+      - IMAGES=/images
+      - PORT=8080
+  
